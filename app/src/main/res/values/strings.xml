@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PushNotificationExample</string>
+    <string name="notificationbutton">NotificationButton</string>
+</resources>
